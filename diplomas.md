@@ -55,6 +55,31 @@ permalink: /diplomas/
                 <img src="/assets/images/diplomas/10.jpeg" alt="Грамота">
             </div>
         </div>
+        <div class="swiper-slide">
+            <div class="swiper-zoom-container">
+                <img src="/assets/images/diplomas/11.jpeg" alt="Грамота">
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper-zoom-container">
+                <img src="/assets/images/diplomas/12.jpeg" alt="Грамота">
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper-zoom-container">
+                <img src="/assets/images/diplomas/13.jpeg" alt="Грамота">
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper-zoom-container">
+                <img src="/assets/images/diplomas/14.jpeg" alt="Грамота">
+            </div>
+        </div>
+        <div class="swiper-slide">
+            <div class="swiper-zoom-container">
+                <img src="/assets/images/diplomas/15.jpeg" alt="Грамота">
+            </div>
+        </div>
     </div>
     
     <!-- Pagination and Navigation Buttons -->
