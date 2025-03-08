@@ -30,13 +30,15 @@ header {
 .swiper-container {
     width: 100%;
     max-width: 600px; /* Adjust as needed */
+    height: auto;
     margin: auto;
     overflow: hidden; /* Prevents horizontal scrolling */
+    position: relative;
 }
 
 .swiper-slide img {
     width: 100%;
     height: auto;
     display: block;
-    object-fit: contain; /* Ensures full image fits */
+    object-fit: cover; /* Ensures full image fits */
 }

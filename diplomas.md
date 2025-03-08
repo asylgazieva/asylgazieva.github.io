@@ -81,7 +81,6 @@ permalink: /diplomas/
             </div>
         </div>
     </div>
-    
     <!-- Pagination and Navigation Buttons -->
     <div class="swiper-pagination"></div>
     <div class="swiper-button-prev"></div>
