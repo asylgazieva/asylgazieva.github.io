@@ -57,6 +57,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+      PAGES_REPO_NWO: ${{ github.repository }}
     runs-on: ubuntu-latest
     needs: build
     steps:
