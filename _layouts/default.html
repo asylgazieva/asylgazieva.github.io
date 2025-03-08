@@ -15,6 +15,41 @@
 
     {%- include footer.html -%}
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var swiper = new Swiper('.swiper-container', {
+            loop: true, // Infinite loop scrolling
+            autoplay: {
+                delay: 3000, // Auto-slide every 3 seconds
+                disableOnInteraction: false,
+            },
+            slidesPerView: 1,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev'
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true
+            },
+            zoom: {
+              maxRatio: 3,
+              minRatio: 1
+            },
+            on: {
+              zoomChange: function (swiper, scale) {
+                  if (scale > 1) {
+                    swiper.autoplay.stop();
+                  } else {
+                    swiper.autoplay.start();
+                  }
+              }
+            }
+        });
+      });
+    </script>
+
   </body>
 
 </html>

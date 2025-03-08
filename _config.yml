@@ -48,13 +48,6 @@ plugins:
 host: 0.0.0.0
 
 header_pages:
-  - about.markdown
   - index.markdown
-  - test.md
-  - test2.md
-  - test3.md
   - lessons.md
-  - test4.md
-  - test5.md
-  - test6.md
-  - test7.md
+  - diplomas.md
