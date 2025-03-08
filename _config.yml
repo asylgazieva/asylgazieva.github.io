@@ -20,9 +20,10 @@
 
 title: Портфолио
 
+repository: asylgazieva/asylgazieva.github.io 
+
 # Build settings
 theme: minima
-plugins:
 
 
 # Exclude from processing.
