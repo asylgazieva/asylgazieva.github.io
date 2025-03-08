@@ -1,0 +1,18 @@
+<div class="swiper-container">
+    <div class="swiper-wrapper">
+        {% for image in include.images %}
+        <div class="swiper-slide">
+            <div class="swiper-zoom-container">
+                <img src="{{ image }}" alt="Грамота">
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+
+    <!-- Navigation buttons -->
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+
+    <!-- Pagination -->
+    <div class="swiper-pagination"></div>
+</div>
