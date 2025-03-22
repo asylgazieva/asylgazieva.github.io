@@ -9,7 +9,7 @@ permalink: /programs/
         Программа
     </div>
     <div class="drive-wrap">
-        <iframe class="drive" src="https://drive.google.com/file/d/1zcFkcSyGWt_h-LZ1heE1IrPI6yGOh3cB/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe  loading="lazy" class="drive" src="https://drive.google.com/file/d/1zcFkcSyGWt_h-LZ1heE1IrPI6yGOh3cB/preview" width="640" height="480" allow="autoplay"></iframe>
     </div>
 </div>
 
@@ -22,7 +22,7 @@ permalink: /programs/
         "География" боюнча жалпы билим берүү уюмдары үчүн окуу программасы
     </div>
     <div class="drive-wrap">
-        <iframe  class="drive" src="https://drive.google.com/file/d/1SF9MPtXDlhRpG2sfmgSnKqbSoCtMVpjq/preview" width="640" height="480" allow="autoplay"></iframe>
+        <iframe  loading="lazy"  class="drive" src="https://drive.google.com/file/d/1SF9MPtXDlhRpG2sfmgSnKqbSoCtMVpjq/preview" width="640" height="480" allow="autoplay"></iframe>
     </div>
 <div>
 
@@ -30,10 +30,10 @@ permalink: /programs/
     <div class="red-small-header">Календарлык тематикалык план</div>
     <div class="iframe-container">
         <div class="drive-wrap">
-            <iframe  class="drive" src="https://drive.google.com/file/d/16ukSW_DN54Mk6f254mG8kBfD7nS0eyGS/preview" width="640" height="480" allow="autoplay"></iframe>
+            <iframe loading="lazy"   class="drive" src="https://drive.google.com/file/d/16ukSW_DN54Mk6f254mG8kBfD7nS0eyGS/preview" width="640" height="480" allow="autoplay"></iframe>
         </div>
         <div class="drive-wrap">
-            <iframe  class="drive" src="https://drive.google.com/file/d/1OSaGdbQhuBCoehbN4WGOdORCAEOmxwX5/preview" width="640" height="480" allow="autoplay"></iframe>
+            <iframe  loading="lazy"  class="drive" src="https://drive.google.com/file/d/1OSaGdbQhuBCoehbN4WGOdORCAEOmxwX5/preview" width="640" height="480" allow="autoplay"></iframe>
         </div>
     </div>
 </div>
