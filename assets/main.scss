@@ -1,6 +1,7 @@
 ---
 ---
 
+
 @import "minima";
 
 .video-container {
@@ -56,4 +57,116 @@ header {
   .column {
     width: 100%;
   }
+}
+
+// assets/css/custom.scss
+
+// Show hamburger menu on all screen sizes
+.nav-trigger {
+  display: block !important;
+}
+
+// Hide the desktop navigation links
+.site-nav .trigger {
+  display: none;
+  position: absolute;
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  right: 0;
+  top: 100%;
+}
+
+// When menu is toggled (checkbox checked), show links vertically
+.nav-trigger:checked ~ .trigger {
+  display: block;
+}
+
+// Hide the default mobile menu icon on small screens (optional)
+@media (max-width: $on-palm) {
+  .menu-icon { display: none; }
+}
+
+// Hide the checkbox visually but keep it functional
+.nav-trigger {
+  opacity: 0;
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+// Style the hamburger menu icon
+.menu-icon {
+  display: block;
+  cursor: pointer;
+  z-index: 100; // Ensure it's above other elements
+}
+
+.site-header {
+  position: relative;
+  padding: 1rem 0;
+}
+
+.site-nav {
+  position: static; // Reset positioning context
+}
+
+// Show the menu links when checkbox is checked
+.nav-trigger:checked ~ .trigger {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  z-index: 99;
+}
+
+// Style the dropdown links
+.trigger {
+  a.page-link {
+    display: block;
+    padding: 8px 16px;
+    white-space: nowrap; // Prevent text wrapping
+  }
+}
+// Force the hamburger menu to always show
+.nav-trigger {
+  opacity: 0; // Hide the checkbox visually
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+.menu-icon {
+  display: block !important; // Always show the hamburger icon
+  cursor: pointer;
+  z-index: 100; // Ensure it's above other elements
+}
+
+// Hide the desktop navigation links
+.site-nav .trigger {
+  display: none;
+  position: absolute;
+  background: white;
+  padding: 10px;
+  border: 1px solid #ccc;
+  right: 0;
+  top: 100%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+// Show the dropdown menu when the checkbox is checked
+.nav-trigger:checked ~ .trigger {
+  display: block;
+}
+.trigger {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+.nav-trigger:checked ~ .trigger {
+  opacity: 1;
+  visibility: visible;
 }
