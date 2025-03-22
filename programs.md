@@ -9,11 +9,11 @@ permalink: /programs/
 </div>
 
 <div class="margin-bottom">
-    <div>"География" боюнча предметтик стандарт - 6-11-класс</div>
+    <div class="red-small-header">"География" боюнча предметтик стандарт - 6-11-класс</div>
 </div>
 
 <div class="margin-bottom">
-    <div>
+    <div class="red-small-header">
         "География" боюнча жалпы билим берүү уюмдары үчүн окуу программасы
     </div>
     <div>
@@ -22,7 +22,7 @@ permalink: /programs/
 <div>
 
 <div class="margin-bottom">
-    <div>Календарлык тематикалык план</div>
+    <div class="red-small-header">Календарлык тематикалык план</div>
     <div>
         <iframe src="https://drive.google.com/file/d/16ukSW_DN54Mk6f254mG8kBfD7nS0eyGS/preview" width="640" height="480" allow="autoplay"></iframe>
     </div>

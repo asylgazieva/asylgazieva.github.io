@@ -6,17 +6,19 @@ layout: home
 ---
 
 <h1 style="text-align:center;">Мугалимдин портфолиосу</h1>
-<div>
-    <img src="/assets/images/portrait.jpg" alt="Портрет">
+<div class="row margin-bottom margin-top">
+    <div class="column">
+        <img src="/assets/images/portrait.jpg" alt="Портрет">
+    </div>
+    <div class="column">
+        <div class="red-header">География мугалими:</div>
+        <div class="blue-header">Асылгазиева Анара Токтомушовна</div>
+        <div class="black-header">География - бул картадагы чиймелер эмес, ал жашоонун өзүнүн сүрөтү</div>
+    </div>
 </div>
 <div>
-    <div>География мугалими:</div>
-    <div>Асылгазиева Анара Токтомушовна</div>
-    <div>География - бул картадагы чиймелер эмес, ал жашоонун өзүнүн сүрөтү</div>
-</div>
-<div>
-    <div>Мазмуну</div>
-    <ol>
+    <div class="red-header">Мазмуну</div>
+    <ol style="font-size:x-large;">
         <li>Мугалим тууралуу маалымат</li>
         <li>Жеке темасы, максаты</li>
         <li>Жылдык жеке иш планы</li>

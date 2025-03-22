@@ -47,6 +47,7 @@ header {
 
 .row {
   display: flex;
+  gap: 30px;
 }
 
 .column {
@@ -179,6 +180,13 @@ header {
   text-align: center;
 }
 
+.red-small-header {
+  font-size:x-large;
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}
+
 .blue-header {
   font-size:xx-large;
   color: blue;
@@ -191,5 +199,9 @@ header {
 }
 
 .margin-bottom {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
+}
+
+.margin-top {
+  margin-top: 50px;
 }
