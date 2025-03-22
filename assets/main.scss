@@ -34,6 +34,7 @@ header {
     margin: auto;
     overflow: hidden; /* Prevents horizontal scrolling */
     position: relative;
+    margin-top: 40px;
 }
 
 .swiper-slide img {
@@ -41,4 +42,18 @@ header {
     height: auto;
     display: block;
     object-fit: cover; /* Ensures full image fits */
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+@media screen and (max-width: 768px) {
+  .column {
+    width: 100%;
+  }
 }
