@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Видео сабактар
+title: Телесабактар
 permalink: /lessons/
 ---
 <div class="video-container"> 
