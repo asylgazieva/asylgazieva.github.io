@@ -4,10 +4,15 @@ title: Мугалим тууралуу маалымат
 permalink: /about-me/
 ---
 
-<div>
-    <img src="/assets/images/portrait2.jpg" alt="Портрет">
+<div class="row">
+    <div class="column">
+        <img src="/assets/images/portrait2.jpg" alt="Портрет">
+    </div>
+    <div class="column">
+        <div class="red-header">География мугалими</div>
+        <div class="blue-header">Асылгазиева Анара Токтомушовна</div>
+    </div>
 </div>
-<div>Асылгазиева Анара Токтомушовна</div>
-<div>Мугалим - окуучулардын келечегин куруп берүүчү адам!</div>
-<iframe width="800" height="650" src="https://docs.google.com/document/d/1cDwv8U5pvv1wxb2NvvHMJyWpT7cABwRx/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
-<iframe width="800" height="650" src="https://docs.google.com/document/d/1OESGTUlIbrSZvaSP1htyiRDIIRlAt6ptEU2sRKnefHY/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+<div class="red-header">Мугалим - окуучулардын келечегин куруп берүүчү адам!</div>
+<iframe src="https://drive.google.com/file/d/1cDwv8U5pvv1wxb2NvvHMJyWpT7cABwRx/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1HtEOlXQeQx9q9P09L0u7YC4moUmKFHQv/preview" width="640" height="480" allow="autoplay"></iframe>
