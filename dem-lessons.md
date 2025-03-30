@@ -59,3 +59,43 @@ permalink: /dem-lessons/
         </div>
     </div>
 </div>
+
+<div>
+    <div class="red-small-header" style="margin-top:30px; margin-bottom:10px;">
+        Колдонмо платформалар
+    </div>
+    <div class="row-2">
+        <div class="column">
+            <div class="drive-wrap">
+                <iframe loading="lazy" style="max-width:100%" src="https://wordwall.net/ru/embed/9a34af92c6db415597734cd49ae114c1?themeId=21&templateId=69&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+                <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/0d143403a7fd4c04bf6bb0a78bd4263e?themeId=45&templateId=22&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+                <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/acf0b7343e1b4cb7ae74b04729ea761f?themeId=23&templateId=22&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+                <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/749696a01dca4e6bbbf5e4f30ba6d4c6?themeId=65&templateId=36&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+            </div>
+        </div>
+        <div class="column">
+            <div class="drive-wrap">
+                <iframe loading="lazy" style="max-width:100%" src="https://wordwall.net/ru/embed/e119b7ce284c4030bf522645e243c5c8?themeId=1&templateId=22&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+                <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/85102681e79a402c81de76ea671c6cc8?themeId=65&templateId=22&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+                <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/e2481dcb2dac4427bd34f8b2967bc270?themeId=46&templateId=36&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+                <iframe style="max-width:100%" src="https://wordwall.net/ru/embed/8c8b3dcc4ca6422581f9a53ce095b189?themeId=23&templateId=36&fontStackId=0" width="500" height="380" frameborder="0" allowfullscreen></iframe>
+            </div>
+            <div class="drive-wrap">
+            </div>
+        </div>
+    </div>
+</div>
