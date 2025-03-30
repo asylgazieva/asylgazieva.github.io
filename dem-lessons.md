@@ -5,63 +5,63 @@ permalink: /dem-lessons/
 ---
 
 <div>
-    <div class="red-small-header" style="margin-top:30px; margin-bottom:10px;">
+    <div class="red-small-header" style="margin-top:30px; margin-bottom:15px;">
         Ачык сабактар
     </div>
     <div class="row-2">
         <div class="column">
             <div class="drive-wrap">
-                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1B4ZO2yCEtr0gfYEhkk66u7629BVDi-qb/preview" allow="autoplay" width="500" height="500"></iframe>
+                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1B4ZO2yCEtr0gfYEhkk66u7629BVDi-qb/preview" allow="autoplay" width="500" height="320"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1TAFh8V4Lafhpa-xu-XzSCgLbUbAGHwp1/preview" allow="autoplay" width="500" height="500"></iframe>
+                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1TAFh8V4Lafhpa-xu-XzSCgLbUbAGHwp1/preview" allow="autoplay" width="500" height="320"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1eU-BlzOGJ0r5sN_QZHXbbzyMBm2n9EZf/preview" allow="autoplay" width="500" height="500"></iframe>
+                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1eU-BlzOGJ0r5sN_QZHXbbzyMBm2n9EZf/preview" allow="autoplay" width="500" height="320"></iframe>
             </div>
         </div>
         <div class="column">
             <div class="drive-wrap">
-                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1e2Pfj4AjnDhRYNfy79Eh9liZ7GRnYtDB/preview" allow="autoplay" width="500" height="500"></iframe>
+                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1e2Pfj4AjnDhRYNfy79Eh9liZ7GRnYtDB/preview" allow="autoplay" width="500" height="320"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1uSs8HQfaBL44Zrf5stfvrIn1bzNjP5ml/preview" allow="autoplay" width="500" height="500"></iframe>
+                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1uSs8HQfaBL44Zrf5stfvrIn1bzNjP5ml/preview" allow="autoplay" width="500" height="320"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1rCAaE_h4o5hmY90N3zFM7LbFg9Vlj8GW/preview" allow="autoplay" width="500" height="500"></iframe>
+                <iframe class="drive" loading="lazy" src="https://drive.google.com/file/d/1rCAaE_h4o5hmY90N3zFM7LbFg9Vlj8GW/preview" allow="autoplay" width="500" height="320"></iframe>
             </div>
         </div>
     </div>
 </div>
 <div>
-    <div class="red-small-header" style="margin-top:30px; margin-bottom:10px;">
+    <div class="red-small-header" style="margin-top:30px; margin-bottom:15px;">
         Тесттик иштер
     </div>
     <div class="row-2">
         <div class="column">
             <div class="drive-wrap">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1294cz4tsd6sWoC4O4QxlnDISAv3t_6DK/preview" width="500" height="500" allow="autoplay"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1294cz4tsd6sWoC4O4QxlnDISAv3t_6DK/preview" width="500" height="320" allow="autoplay"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1XyGkVxmBDBcGJ93hT_M-d-ueN08WqhcL/preview" width="500" height="500" allow="autoplay"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1XyGkVxmBDBcGJ93hT_M-d-ueN08WqhcL/preview" width="500" height="320" allow="autoplay"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1YEE5nWJvLg15an8rvc_AvpuBV_qMXEG2/preview" width="500" height="500" allow="autoplay"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1YEE5nWJvLg15an8rvc_AvpuBV_qMXEG2/preview" width="500" height="320" allow="autoplay"></iframe>
             </div>
         </div>
         <div class="column">
             <div class="drive-wrap">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1zksuEwJJn0UVtDQRH9ZcRkloWNsXW31R/preview" width="500" height="500" allow="autoplay"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1zksuEwJJn0UVtDQRH9ZcRkloWNsXW31R/preview" width="500" height="320" allow="autoplay"></iframe>
             </div>
             <div class="drive-wrap">
-                <iframe loading="lazy" src="https://drive.google.com/file/d/1GYkLdljRrbV5MCz6Bbs3GaGuuWfHZ6jv/preview" width="500" height="500" allow="autoplay"></iframe>
+                <iframe loading="lazy" src="https://drive.google.com/file/d/1GYkLdljRrbV5MCz6Bbs3GaGuuWfHZ6jv/preview" width="500" height="320" allow="autoplay"></iframe>
             </div>
         </div>
     </div>
 </div>
 
 <div>
-    <div class="red-small-header" style="margin-top:30px; margin-bottom:10px;">
+    <div class="red-small-header" style="margin-top:30px; margin-bottom:15px;">
         Колдонмо платформалар
     </div>
     <div class="row-2">
@@ -118,4 +118,8 @@ permalink: /dem-lessons/
             </div>
         </div>
     </div>
+    <iframe loading="lazy" src="https://learningapps.org/watch?app=15956039"  style="margin-top: 30px; border:1px; border-style: solid; border-color: #2f4f4f; width:100%;min-height:700px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+    <iframe loading="lazy" src="https://learningapps.org/watch?app=21960440"  style="margin-top: 30px; border:1px; border-style: solid; border-color: #2f4f4f; width:100%;min-height:700px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+    <iframe loading="lazy" src="https://learningapps.org/watch?app=24830998"  style="margin-top: 30px; border:1px; border-style: solid; border-color: #2f4f4f; width:100%;min-height:700px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+    <iframe loading="lazy" src="https://learningapps.org/watch?v=pz8q4bc1322" style="margin-top: 30px; border:1px; border-style: solid; border-color: #2f4f4f; width:100%;min-height:700px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 </div>
