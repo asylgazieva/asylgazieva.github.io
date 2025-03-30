@@ -1,8 +1,21 @@
 ---
 ---
 
+$content-width: 1200px;
 
 @import "minima";
+
+@include media-query($on-laptop) { // Adjust breakpoint variable if needed
+  .wrapper {
+    // Override the pixel-based max-width set by Minima with a percentage
+    max-width: 90%;
+
+    // Important: Ensure padding is still reasonable. Minima's default calc() handles padding,
+    // setting max-width directly might require you to ensure padding is accounted for if needed,
+    // but often the browser handles this fine with box-sizing: border-box (which Jekyll/Minima use).
+    // The original padding on .wrapper should still apply.
+  }
+}
 
 .video-container {
   position: relative;

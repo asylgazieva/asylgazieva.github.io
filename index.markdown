@@ -8,7 +8,7 @@ layout: home
 <h1 style="text-align:center;">Мугалимдин портфолиосу</h1>
 <div class="row margin-bottom margin-top">
     <div class="column">
-        <img src="/assets/images/portrait.jpg" alt="Портрет">
+        <img src="/assets/images/portrait.jpg" alt="Портрет" style="max-height: 670px">
     </div>
     <div class="column">
         <div class="red-header">География мугалими:</div>
