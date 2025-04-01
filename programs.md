@@ -15,6 +15,9 @@ permalink: /programs/
 
 <div class="margin-bottom">
     <div class="red-small-header">"География" боюнча предметтик стандарт - 6-11-класс</div>
+    <div class="drive-wrap">
+        <iframe  loading="lazy" class="drive" src="https://drive.google.com/file/d/1CVzH_ogOI5XGi0OQ-MeedajAQOCNdag7/preview" width="640" height="480" allow="autoplay"></iframe>
+    </div>
 </div>
 
 <div class="margin-bottom">
