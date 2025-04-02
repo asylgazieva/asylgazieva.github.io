@@ -188,3 +188,9 @@ header {
   width: 100%;
   aspect-ratio: 4 / 3;
 }
+
+.site-header {
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
