@@ -22,6 +22,6 @@ permalink: /about-me/
         <iframe class="drive-container" loading="lazy" src="https://drive.google.com/file/d/1HtEOlXQeQx9q9P09L0u7YC4moUmKFHQv/preview" allow="autoplay"></iframe>
     </div>
     <div class="drive-wrap" >
-        <iframe width="980" height="551" src="https://www.youtube.com/embed/RdRqg6cJ4-o" title="Анара Асылгазиева | Жылдын мыкты география мугалими" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="980" height="551" src="https://www.youtube.com/embed/-feJBYPw6pY" title="Асылгазиева Анара | Жылдын Мыкты География Мугалими" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
