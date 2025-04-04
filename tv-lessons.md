@@ -97,6 +97,18 @@ permalink: /lessons/
 
 <div class="drive-wrap">
 	<div class="video-container">
+    	<iframe loading="lazy"  src="https://www.youtube.com/embed/JY8YeGVnUEQ" title="8-класс | география | КРнын агроклиматтык ресурстары. коркунучтуу метеорологиялык кубулуштар" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
+</div>
+
+<div class="drive-wrap">
+	<div class="video-container">
+    	<iframe loading="lazy"  src="https://www.youtube.com/embed/Aa3nWalmcNQ" title="8-класс | География |  Климаттын бийиктик алкактары жана региондор боюнча өзгөчөлүктөрү" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+	</div>
+</div>
+
+<div class="drive-wrap">
+	<div class="video-container">
     	<iframe loading="lazy"  src="https://www.youtube.com/embed/o3CmX-YIQpE" title="География - 6 класс - Жаратылыш комплекстери" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 	</div>
 </div>

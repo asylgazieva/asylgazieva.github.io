@@ -13,7 +13,7 @@ layout: home
     <div class="column">
         <div class="red-header">География мугалими:</div>
         <div class="blue-header">Асылгазиева Анара Токтомушовна</div>
-        <div class="black-header">География - бул картадагы чиймелер эмес, ал жашоонун өзүнүн сүрөтү</div>
+        <div class="black-header">География - бул картадагы чиймелер эмес, ал жашоонун өзүнүн сүрөтү.</div>
     </div>
 </div>
 <div>
