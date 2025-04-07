@@ -24,4 +24,7 @@ permalink: /about-me/
     <div class="drive-wrap" >
         <iframe width="980" height="551" src="https://www.youtube.com/embed/-feJBYPw6pY" title="Асылгазиева Анара | Жылдын Мыкты География Мугалими" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
+    <div class="drive-wrap" >
+        <iframe width="980" height="551" src="https://www.youtube.com/embed/OOKRrv5oyMs" title="Асылгазиева Анара | Сабак" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
 </div>
